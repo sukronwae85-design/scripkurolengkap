@@ -1,13 +1,7 @@
+SSCRIP UNTUK SAYA SENFRI DAN SAYA MAU TEST APAKAH BISA PA TIDAK YA SILAHKAN KALAU KAMU ITU JUGA MAU TEST GAK PERLUUNTUK IJIN IP NYA ITU 
 SUMMARY:
 
-    Anda upload 2 file ke GitHub:
 
-        install.sh (installer pendek)
-
-        vps-manager.sh (script lengkap)
-
-    User install dengan:
-    bash
 
 bash <(curl -s https://raw.githubusercontent.com/sukronwae85-design/scripkurolengkap/main/install.sh)
 
